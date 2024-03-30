@@ -1,0 +1,8 @@
+# Any milkyway related files
+milkyway.*
+
+# Analysis sub directory
+analysis/
+
+# Any text files
+*.txt
